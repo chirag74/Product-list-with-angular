@@ -1,0 +1,22 @@
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    width: 120px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e9ecf1;
+    background-color: #35393f;
+    border: 1px solid #35393f;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
